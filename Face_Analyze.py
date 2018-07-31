@@ -1,8 +1,8 @@
 import requests
 import Face_Core as fc
 
-Key = "Nlpg1nGz3f07878kwY0z93LGkVHYu3ME"  # 此处填写你在Face++上申请的API_Key
-Secret = "JLINS4V2KX6oNlD01RYSyUR3OvhoODry"  # 此处填写你在Face++上申请的API_Secret
+Key = ""  # 此处填写你在Face++上申请的API_Key
+Secret = ""  # 此处填写你在Face++上申请的API_Secret
 URL = "https://api-cn.faceplusplus.com/facepp/v3/face/analyze"
 
 

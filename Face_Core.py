@@ -2,8 +2,8 @@ import requests
 import base64
 
 URL = "https://api-cn.faceplusplus.com/facepp/v3/detect"
-Key = "Nlpg1nGz3f07878kwY0z93LGkVHYu3ME"  # 此处填写上你在Face++上申请的API_Key
-Secret = "JLINS4V2KX6oNlD01RYSyUR3OvhoODry"  # 此处填写上你在Face++上申请的API_Secret
+Key = ""  # 此处填写上你在Face++上申请的API_Key
+Secret = ""  # 此处填写上你在Face++上申请的API_Secret
 
 
 def getpicbase64(path):
